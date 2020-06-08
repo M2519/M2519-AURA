@@ -33,8 +33,14 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
-    "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-trans-square-114.png",
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      }
+    ],
+    "favicon": "@PROJECT_PATH@/assets/images/logo-trans-square-10.png",
     "imageResize": false,
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -54,7 +60,8 @@
     "siteUrl": false,
     "gdpr": false,
     "uniqCompNum": 9,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {

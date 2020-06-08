@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-trans-square-113.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-trans-square-114.png",
     "imageResize": false,
     "cookiesAlert": {
       "customDialogSelector": false,

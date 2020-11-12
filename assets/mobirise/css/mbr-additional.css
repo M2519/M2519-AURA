@@ -907,6 +907,48 @@ section.lazy-placeholder:after {
 .cid-s1q1nT0JLH H3 {
   color: #767676;
 }
+.cid-s1qhAaTyYr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s1qhAaTyYr [class^="socicon-"]:before,
+.cid-s1qhAaTyYr [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-s1qhAaTyYr .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #e1a6ae;
+}
+.cid-s1qhAaTyYr .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
+}
+.cid-s1qhAaTyYr .btn-social:hover {
+  color: #fff;
+  background: #e1a6ae;
+}
+.cid-s1qhAaTyYr .btn-social:hover i.socicon {
+  color: #000000 !important;
+}
+.cid-s1qhAaTyYr .btn-social + .btn {
+  margin-left: .1rem;
+}
+@media (max-width: 767px) {
+  .cid-s1qhAaTyYr .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-s1lsll5ZdA .navbar {
   background: #ffffff;
   transition: none;
@@ -1382,48 +1424,6 @@ section.lazy-placeholder:after {
 .cid-s1lEj2clke .links {
   color: #767676;
 }
-.cid-s1qhAaTyYr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s1qhAaTyYr [class^="socicon-"]:before,
-.cid-s1qhAaTyYr [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-s1qhAaTyYr .btn-social {
-  font-size: 20px;
-  border-radius: 50%;
-  padding: 0;
-  width: 44px;
-  height: 44px;
-  line-height: 44px;
-  text-align: center;
-  position: relative;
-  color: #232323;
-  cursor: pointer;
-  border-color: #e1a6ae;
-}
-.cid-s1qhAaTyYr .btn-social i {
-  top: 0;
-  line-height: 44px;
-  width: 44px;
-}
-.cid-s1qhAaTyYr .btn-social:hover {
-  color: #fff;
-  background: #e1a6ae;
-}
-.cid-s1qhAaTyYr .btn-social:hover i.socicon {
-  color: #000000 !important;
-}
-.cid-s1qhAaTyYr .btn-social + .btn {
-  margin-left: .1rem;
-}
-@media (max-width: 767px) {
-  .cid-s1qhAaTyYr .btn {
-    font-size: 20px !important;
-  }
-}
 .cid-s1lsll5ZdA .navbar {
   background: #ffffff;
   transition: none;
@@ -1842,18 +1842,4 @@ section.lazy-placeholder:after {
 }
 .cid-s1qcKYyRvk .mbr-section-subtitle {
   color: #767676;
-}
-.cid-s1qdk9DQwW {
-  background-image: url("../../../assets/images/background3.jpg");
-}
-.cid-s1qdk9DQwW h1 {
-  color: #616161;
-}
-.cid-s1qdk9DQwW h2,
-.cid-s1qdk9DQwW h3,
-.cid-s1qdk9DQwW p {
-  color: #767676;
-}
-.cid-s1qdk9DQwW .mbr-section-subtitle {
-  font-style: italic;
 }
